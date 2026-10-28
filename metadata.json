@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Protocol: Tactical Strike",
+  "description": "Game tactical shooter kompetitif dengan kontrol presisi, recoil realistis, pergerakan fluid (slide/jump), mode taktis (Bom, TDM, Battle Royale), sistem ping spasial, role hero, dan matchmaking adil bebas pay-to-win.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
